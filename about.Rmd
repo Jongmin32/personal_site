@@ -1,0 +1,12 @@
+---
+title: "About"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- __Name:__ Jongmin Lee
+- __Field of Research:__ Governance, Nonprofit Management
+- __Location:__ Bloomington,IN
